@@ -4,69 +4,69 @@
       {
         "label": "primary",
         "color": {
-          "red": 74,
-          "green": 122,
-          "blue": 155,
+          "red": 15,
+          "green": 45,
+          "blue": 82,
           "alpha": 1
         },
-        "hex": "#4a7a9b",
+        "hex": "#0F2D52",
         "accessibility": {
-          "luminance": 0.17,
-          "luminancePercent": "17%",
+          "luminance": 0.03,
+          "luminancePercent": "3%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 4.6,
-          "wcagRating": "AA"
+          "contrastRatio": 13.84,
+          "wcagRating": "AAA"
         }
       },
       {
         "label": "secondary",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 149,
+          "green": 161,
+          "blue": 169,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#95a1a9",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
-          "wcagRating": "AA"
+          "luminance": 0.35,
+          "luminancePercent": "35%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 7.95,
+          "wcagRating": "AAA"
         }
       },
       {
         "label": "accent",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 110,
+          "green": 159,
+          "blue": 135,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#6E9F87",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
-          "wcagRating": "AAA"
+          "luminance": 0.3,
+          "luminancePercent": "30%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 6.97,
+          "wcagRating": "AA"
         }
       },
       {
         "label": "text",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 88,
+          "green": 128,
+          "blue": 108,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#58806c",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
-          "wcagRating": "AAA"
+          "luminance": 0.19,
+          "luminancePercent": "19%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 4.72,
+          "wcagRating": "AA"
         }
       },
       {
@@ -123,94 +123,94 @@
       {
         "label": "topbar-dark",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 15,
+          "green": 45,
+          "blue": 82,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#0F2D52",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
+          "luminance": 0.03,
+          "luminancePercent": "3%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
-          "wcagRating": "AA"
+          "contrastRatio": 13.84,
+          "wcagRating": "AAA"
         }
       }
     ],
     "typography": [
       {
         "label": "font",
-        "font": "'Verdana', helvetica, arial, sans-serif"
+        "font": "'roboto', helvetica, arial, sans-serif"
       },
       {
         "label": "font-title",
-        "font": "'Montserrat', sans-serif"
+        "font": "'Nunito Sans', sans-serif"
       }
     ],
-    "logo_url": "https://www.taortho.com/assets/images/logo.png",
+    "logo_url": "https://assets.cdn.filesafe.space/0bYQnmWpzOTFy4l0npCW/media/633efbb62fbaeb863f477ebd.png",
     "logo_config": {
       "type": "url",
-      "variant": "light",
-      "url": "https://www.taortho.com/assets/images/logo.png"
+      "variant": "dark",
+      "url": "https://assets.cdn.filesafe.space/0bYQnmWpzOTFy4l0npCW/media/633efbb62fbaeb863f477ebd.png"
     },
     "logo_colors": {
       "colors": [
         {
-          "hex": "#3f9ff4",
-          "luminosity_percent": 32,
-          "count": 3
+          "hex": "#ffffff",
+          "luminosity_percent": 100,
+          "count": 29
         },
         {
-          "hex": "#3c9bf0",
+          "hex": "#6fa189",
+          "luminosity_percent": 31,
+          "count": 4
+        },
+        {
+          "hex": "#6e9f87",
+          "luminosity_percent": 30,
+          "count": 4
+        },
+        {
+          "hex": "#70a28a",
           "luminosity_percent": 31,
           "count": 3
         },
         {
-          "hex": "#3c9bf1",
-          "luminosity_percent": 31,
+          "hex": "#6fa088",
+          "luminosity_percent": 30,
           "count": 3
         },
         {
-          "hex": "#3e9bf0",
-          "luminosity_percent": 31,
+          "hex": "#6f9f87",
+          "luminosity_percent": 30,
+          "count": 3
+        },
+        {
+          "hex": "#6c9d85",
+          "luminosity_percent": 29,
           "count": 2
         },
         {
-          "hex": "#3d9df3",
-          "luminosity_percent": 32,
+          "hex": "#6d9f86",
+          "luminosity_percent": 30,
           "count": 2
         },
         {
-          "hex": "#090707",
-          "luminosity_percent": 0,
+          "hex": "#6ea088",
+          "luminosity_percent": 30,
           "count": 2
         },
         {
-          "hex": "#070507",
-          "luminosity_percent": 0,
+          "hex": "#6e9e86",
+          "luminosity_percent": 29,
           "count": 2
-        },
-        {
-          "hex": "#3da1f8",
-          "luminosity_percent": 33,
-          "count": 2
-        },
-        {
-          "hex": "#3d9ff2",
-          "luminosity_percent": 32,
-          "count": 1
-        },
-        {
-          "hex": "#3e9ef5",
-          "luminosity_percent": 32,
-          "count": 1
         }
       ],
-      "dominant_color": "#3f9ff4",
-      "avg_luminosity": 25.6,
-      "is_light": false
+      "dominant_color": "#ffffff",
+      "avg_luminosity": 67.6,
+      "is_light": true
     },
-    "favicon_url": "https://www.taortho.com/assets/images/icons/favicon.png"
+    "favicon_url": "https://stcdn.leadconnectorhq.com/funnel/icon/favicon.ico"
   }
 }
