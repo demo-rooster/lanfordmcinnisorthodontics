@@ -1,77 +1,62 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Lanford & McInnis Orthodontics",
+  "domain": "lanfordmcinnisorthodontics.com",
+  "email": "contact@lanfordmcinnisorthodontics.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "(864) 226-2858",
+    "href": "tel:+18642262858",
+    "aria": "8 6 4, 2 2 6, 2 8 5 8"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "Anderson Location",
       "address": {
-        "street": "9650 Main Street",
-        "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "street": "2315 N Main St.",
+        "suite": "#120",
+        "city_state": "Anderson, SC 29621",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "",
+          "latitude": ""
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "(864) 226-2858",
+        "href": "tel:+18642262858"
       },
-      "email": "info@mandtortho.com",
+      "email": "contact@lanfordmcinnisorthodontics.com",
       "hours": [
         {
           "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
+          "time": "8:00am - 12:00pm, 1:30pm - 5:00pm"
         },
         {
           "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
+          "time": "8:00am - 12:00pm, 1:30pm - 5:00pm"
         },
         {
           "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
+          "time": "8:00am - 12:00pm, 1:30pm - 5:00pm"
         },
         {
           "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
+          "time": "8:00am - 12:00pm, 1:30pm - 5:00pm"
         },
         {
           "day": "Friday",
-          "time": "8:00 am \t11:30 am"
+          "time": "8:00am - 12:00pm, 1:30pm - 5:00pm"
+        },
+        {
+          "day": "Saturday",
+          "time": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "time": "Closed"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "Get Directions"
-      },
-      "special_note": ""
-    },
-    {
-      "title": "Tonawanda Office",
-      "address": {
-        "street": "1077 Delaware Rd",
-        "suite": "",
-        "city_state": "Tonawanda, NY 14223",
-        "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
-        }
-      },
-      "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
-      },
-      "email": "info@mandtortho.com",
-      "hours": [],
-      "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps/search/?api=1&query=2315+N+Main+St+%23120+Anderson+SC+29621",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -94,17 +79,17 @@
     "content_alignment": "right",
     "links": [
       {
-        "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
+        "icon": "tooth-two-v2",
+        "text": "2315 N Main St. #120, Anderson, SC 29621",
+        "href": "https://www.google.com/maps/search/?api=1&query=2315+N+Main+St+%23120+Anderson+SC+29621",
+        "label": "View 2315 N Main St. #120, Anderson, SC 29621 on Google Maps",
         "new_window": true
       },
       {
         "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
+        "text": "(864) 226-2858",
+        "href": "tel:+18642262858",
+        "label": "Call (864) 226-2858",
         "new_window": false
       }
     ],
@@ -132,7 +117,7 @@
           "path": "/contact",
           "hash": "#form",
           "external": false,
-          "include_icon": true,
+          "include_icon": false,
           "icon": "tooth-two-v2",
           "color": "primary"
         }
@@ -148,22 +133,17 @@
     "href": ""
   },
   "footer": {
-    "social_media": [
-      {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
-        "icon": "youtube"
-      }
-    ],
+    "social_media": [],
     "add_border": false
   },
   "enable_popup": false,
   "popup": {
-    "title": "",
-    "text": "",
+    "title": "Welcome to Lanford & McInnis Orthodontics",
+    "text": "Board-certified care delivered with modern technology and a family-friendly approach. Schedule your free consultation today.",
     "image": {
-      "src": "",
+      "src": "https://assets.cdn.filesafe.space/0bYQnmWpzOTFy4l0npCW/media/633efbb62fbaeb863f477ebd.png",
       "webp": "",
-      "alt": "",
+      "alt": "Lanford & McInnis Orthodontics logo",
       "aria_hidden": false,
       "bgColor": "",
       "imageBackground": false,
@@ -171,7 +151,9 @@
       "objectPosition": "",
       "forceAlt": "",
       "loading_mask": "",
-      "image_selection_hints": null
+      "image_selection_hints": {
+        "context_category": "About Hero"
+      }
     }
   }
 }
